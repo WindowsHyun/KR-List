@@ -1,0 +1,24 @@
+! Title: WindowsHyun List-KR
+! Homepage: https://github.com/WindowsHyun/KR-List
+! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
+
+! Workaround for BlockAdBlock
+
+humorbook.co.kr##.ko.wrapper > .at-content > .container > .radius-gray.bg-white.view-wrap > div:nth-of-type(3)
+humorbook.co.kr##.ko.wrapper > .at-content > .container > .radius-gray.bg-white.view-wrap > div:nth-of-type(7)
+
+
+hodu8.com##.renewal17_bltl_basiclist > .renewal17_idxlist > .todays_free_third.clearfix
+
+wfwf4.com###content > .top-banner > .group > ul
+wfwf4.com##.webtoon-body > .top-banner > .group > ul
+
+jambo2.com###pvjosgtkmnqefixwhuryl > .post-wrap
+jambo2.com###vcwixsknjfermhgltuqodp > .post-wrap
+
+toonkor.blog##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) > .mobile-banner.col-md-12 > .top_banner.clearfix.row > table > tbody
+toonkor.blog##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) > .mobile-banner.col-md-12
+
+
+wfwf5.com##.webtoon-body > .top-banner > .group > ul
+wfwf5.com##.webtoon-body > center > .group > .top-banner
