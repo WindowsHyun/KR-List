@@ -22,3 +22,5 @@ toonkor.blog##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) >
 
 wfwf5.com##.webtoon-body > .top-banner > .group > ul
 wfwf5.com##.webtoon-body > center > .group > .top-banner
+
+||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
