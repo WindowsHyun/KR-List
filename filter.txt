@@ -36,3 +36,5 @@ wfwf5.com##.webtoon-body > center > .group > .top-banner
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=m.media.daum.net,third-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=m.live.sports.media.daum.net,third-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=m.sports.media.daum.net,third-party
+
+wfwf10.com##.webtoon-body > .top-banner
