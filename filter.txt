@@ -10,18 +10,11 @@ humorbook.co.kr##.ko.wrapper > .at-content > .container > .radius-gray.bg-white.
 
 hodu8.com##.renewal17_bltl_basiclist > .renewal17_idxlist > .todays_free_third.clearfix
 
-wfwf4.com###content > .top-banner > .group > ul
-wfwf4.com##.webtoon-body > .top-banner > .group > ul
-
 jambo2.com###pvjosgtkmnqefixwhuryl > .post-wrap
 jambo2.com###vcwixsknjfermhgltuqodp > .post-wrap
 
 toonkor.blog##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) > .mobile-banner.col-md-12 > .top_banner.clearfix.row > table > tbody
 toonkor.blog##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) > .mobile-banner.col-md-12
-
-
-wfwf5.com##.webtoon-body > .top-banner > .group > ul
-wfwf5.com##.webtoon-body > center > .group > .top-banner
 
 ||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
 
@@ -37,14 +30,18 @@ wfwf5.com##.webtoon-body > center > .group > .top-banner
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=m.live.sports.media.daum.net,third-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=m.sports.media.daum.net,third-party
 
-wfwf11.com##.webtoon-body > .top-banner
-wfwf12.com##.webtoon-body > .top-banner
-wfwf13.com##.webtoon-body > .top-banner
 wfwf14.com##.webtoon-body > .top-banner
 wfwf15.com##.webtoon-body > .top-banner
-wfwf11.com###content > .group:nth-of-type(3) > .top-banner
-wfwf12.com###content > .group:nth-of-type(3) > .top-banner
-wfwf13.com###content > .group:nth-of-type(3) > .top-banner
+wfwf16.com##.webtoon-body > .top-banner
+wfwf17.com##.webtoon-body > .top-banner
+wfwf18.com##.webtoon-body > .top-banner
 wfwf14.com###content > .group:nth-of-type(3) > .top-banner
 wfwf15.com###content > .group:nth-of-type(3) > .top-banner
+wfwf16.com###content > .group:nth-of-type(3) > .top-banner
+wfwf17.com###content > .group:nth-of-type(3) > .top-banner
+wfwf18.com###content > .group:nth-of-type(3) > .top-banner
 
+toonkor.pub##.top_hr.mobile-banner.section > .container > .row > .mobile-banner.col-md-12
+toonkor.pub###bo_list > .clearfix > .bnt.bn
+toonkor.pub###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > a[href="http://bttt1.com"]
+toonkor.pub###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > .bnt.bn
