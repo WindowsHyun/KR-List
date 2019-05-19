@@ -45,3 +45,7 @@ toonkor.pub##.top_hr.mobile-banner.section > .container > .row > .mobile-banner.
 toonkor.pub###bo_list > .clearfix > .bnt.bn
 toonkor.pub###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > a[href="http://bttt1.com"]
 toonkor.pub###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > .bnt.bn
+
+toonkor.rest##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) > .mobile-banner.col-md-12
+toonkor.rest###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > a[href="http://but-666.com"]
+toonkor.rest###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > .bnt.bn
