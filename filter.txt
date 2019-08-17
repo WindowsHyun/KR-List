@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/WindowsHyun/KR-List/
 ! Title: WindowsHyunGuard
 ! Expires: 12 hours
-! Version: 20190610
+! Version: 20190817
 ! WindowsHyunGuard사용을 환영합니다. WindowsHyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! Welcome to use WindowsHyunGuard! WindowsHyunGuard is AdBlock filter list for Korean web.
 ! WindowsHyunGuard 프로젝트는 https://github.com/WindowsHyun/KR-List/ 에서 참여할 수 있습니다.
