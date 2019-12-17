@@ -14,8 +14,8 @@
 ! HyunGuard Git 프로젝트가 사라지면서 해당 HyunGuard 필터 리스트를 WindowsHyun에서 관리를 다시 시작합니다.
 
 !FuckFuckAdBlock
-gugomah.tistory.com,*.tistory.com##+js(abort-on-property-read, checkAds)
-gugomah.tistory.com,*.tistory.com#%#//scriptlet("abort-on-property-read", "checkAds")
+gugomah.tistory.com##+js(abort-on-property-read, checkAds)
+gugomah.tistory.com#%#//scriptlet("abort-on-property-read", "checkAds")
 
 wfwf14.com##.webtoon-body > .top-banner
 wfwf15.com##.webtoon-body > .top-banner
