@@ -93,3 +93,18 @@ toonkor.rest###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap >
 ! 2019. 5. 19. 오후 12:21:46 https://toonkor.rest/%EB%82%98_%ED%98%BC%EC%9E%90%EB%A7%8C_%EB%A0%88%EB%B2%A8%EC%97%85_71%ED%99%94.html
 toonkor.rest###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > .bnt.bn
 
+! 2020. 11. 3. 오후 4:48:53 https://m.naver.com/
+m.naver.com###nmap_news_channel_top_tgtLREC
+
+! 2020. 11. 3. 오후 4:50:29 https://m.naver.com/
+m.naver.com###nmap_ent_top_tgtLREC
+
+! 2020. 11. 3. 오후 4:50:36 https://m.naver.com/
+m.naver.com###nmap_sports_top_tgtLREC
+
+! 2020. 11. 3. 오후 4:50:44 https://m.naver.com/
+m.naver.com###nmap_main_chart_top_tgtLREC
+
+! 2020. 11. 3. 오후 4:51:17 https://m.naver.com/
+m.naver.com###nmap_news_channel_top > .native_scroll.smart_board
+
