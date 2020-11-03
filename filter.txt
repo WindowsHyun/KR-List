@@ -108,3 +108,8 @@ m.naver.com###nmap_main_chart_top_tgtLREC
 ! 2020. 11. 3. 오후 4:51:17 https://m.naver.com/
 m.naver.com###nmap_news_channel_top > .native_scroll.smart_board
 
+! 2020. 11. 3. 오후 5:54:55 https://m.naver.com/
+m.naver.com###mflick > .eg-flick-container > .eg-flick-panel.flick-panel:nth-of-type(2) > .id_place.wrap > .brick-house.grid1_wrap > .brick-vowel:nth-of-type(2) > .comp_banner.grid1 > .cb_link > .cb_mw > .change.loaded.cb_m
+
+! 2020. 11. 3. 오후 5:55:08 https://m.naver.com/
+m.naver.com###mflick > .eg-flick-container > .eg-flick-panel.flick-panel:nth-of-type(2) > .id_place.wrap > .brick-house.grid1_wrap > .brick-vowel:nth-of-type(1) > .comp_banner.grid1 > .cb_link > .cb_mw > .change.loaded.cb_m
