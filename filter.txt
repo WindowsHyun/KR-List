@@ -17,27 +17,6 @@
 gugomah.tistory.com##+js(abort-on-property-read, checkAds)
 gugomah.tistory.com#%#//scriptlet("abort-on-property-read", "checkAds")
 
-wfwf14.com##.webtoon-body > .top-banner
-wfwf15.com##.webtoon-body > .top-banner
-wfwf16.com##.webtoon-body > .top-banner
-wfwf17.com##.webtoon-body > .top-banner
-wfwf18.com##.webtoon-body > .top-banner
-wfwf14.com###content > .group:nth-of-type(3) > .top-banner
-wfwf15.com###content > .group:nth-of-type(3) > .top-banner
-wfwf16.com###content > .group:nth-of-type(3) > .top-banner
-wfwf17.com###content > .group:nth-of-type(3) > .top-banner
-wfwf18.com###content > .group:nth-of-type(3) > .top-banner
-
-toonkor.pub##.top_hr.mobile-banner.section > .container > .row > .mobile-banner.col-md-12
-toonkor.pub###bo_list > .clearfix > .bnt.bn
-toonkor.pub###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > a[href="http://bttt1.com"]
-toonkor.pub###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > .bnt.bn
-
-toonkor.rest##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) > .mobile-banner.col-md-12
-toonkor.rest###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > a[href="http://but-666.com"]
-toonkor.rest###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > .bnt.bn
-
-
 humorbook.co.kr##.ko.wrapper > .at-content > .container > .radius-gray.bg-white.view-wrap > div:nth-of-type(3)
 humorbook.co.kr##.ko.wrapper > .at-content > .container > .radius-gray.bg-white.view-wrap > div:nth-of-type(7)
 humorbook.co.kr##.ad_side_list
@@ -47,51 +26,6 @@ humorbook.co.kr##.ko.wrapper > .at-content > .container > .radius-gray.bg-white.
 
 ! 2018. 8. 19. 오후 2:21:54 http://humorbook.co.kr/bbs/board.php?bo_table=humor&wr_id=853287&page=4
 humorbook.co.kr##.ko.wrapper > .at-content > .container > .radius-gray.bg-white.view-wrap > div:nth-of-type(7)
-
-! 2018. 8. 25. 오후 1:21:55 https://hodu8.com/complete
-hodu8.com##.renewal17_bltl_basiclist > .renewal17_idxlist > .todays_free_third.clearfix
-
-! 2018. 8. 25. 오후 1:36:18 https://wfwf4.com/end?o=n&type1=genre&type2=%B7%CE%B8%C7%BD%BA
-wfwf4.com###content > .top-banner > .group > ul
-
-! 2018. 9. 21. 오전 12:25:43 https://wfwf4.com/view?toon=1194&num=67&title=%B9%AE%C0%AF%B8%B6%C1%F6%B8%B7%C8%AD
-wfwf4.com##.webtoon-body > .top-banner > .group > ul
-
-! 2018. 9. 21. 오후 9:42:56 https://jambo2.com/bbs/board.php?bo_table=026&wr_id=2370
-jambo2.com###pvjosgtkmnqefixwhuryl > .post-wrap
-
-! 2018. 9. 21. 오후 9:43:08 https://jambo2.com/bbs/board.php?bo_table=026&wr_id=2374
-jambo2.com###vcwixsknjfermhgltuqodp > .post-wrap
-
-! 2018. 11. 15. 오후 7:20:48 https://toonkor.blog/bbs/search.php?sfl=wr_subject%7C%7Cwr_content&stx=%EC%97%B0%EC%95%A0
-toonkor.blog##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) > .mobile-banner.col-md-12 > .top_banner.clearfix.row > table > tbody
-
-! 2018. 11. 15. 오후 7:20:56 https://toonkor.blog/bbs/search.php?sfl=wr_subject%7C%7Cwr_content&stx=%EC%97%B0%EC%95%A0
-toonkor.blog##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) > .mobile-banner.col-md-12
-
-! 2019. 2. 6. 오후 4:24:03 https://wfwf5.com/view?toon=442&num=1
-wfwf5.com##.webtoon-body > .top-banner > .group > ul
-
-! 2019. 2. 6. 오후 4:25:30 https://wfwf5.com/view?toon=442&num=1
-wfwf5.com##.webtoon-body > center > .group > .top-banner
-
-! 2019. 4. 4. 오후 10:17:58 https://wfwf10.com/view?toon=781&num=66
-wfwf10.com##.webtoon-body > .top-banner
-
-! 2019. 4. 22. 오후 11:21:45 http://humorbook.co.kr/bbs/board.php?bo_table=humor&page=2&page=3
-humorbook.co.kr##.ad_side_list
-
-! 2019. 5. 12. 오후 12:59:10 http://www.full.co.kr/live/play/?HFX9o9ZQl32zAu2GFv1uthl=5183670&referrer=%2F
-www.full.co.kr###watermark
-
-! 2019. 5. 19. 오후 12:21:27 https://toonkor.rest/%EB%82%98_%ED%98%BC%EC%9E%90%EB%A7%8C_%EB%A0%88%EB%B2%A8%EC%97%85_71%ED%99%94.html
-toonkor.rest##.top_hr.mobile-banner.section > .container > .row:nth-of-type(1) > .mobile-banner.col-md-12
-
-! 2019. 5. 19. 오후 12:21:35 https://toonkor.rest/%EB%82%98_%ED%98%BC%EC%9E%90%EB%A7%8C_%EB%A0%88%EB%B2%A8%EC%97%85_71%ED%99%94.html
-toonkor.rest###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > a[href="http://but-666.com"]
-
-! 2019. 5. 19. 오후 12:21:46 https://toonkor.rest/%EB%82%98_%ED%98%BC%EC%9E%90%EB%A7%8C_%EB%A0%88%EB%B2%A8%EC%97%85_71%ED%99%94.html
-toonkor.rest###thema_wrapper > .boxed.wrapper > div > .at-content > .view-wrap > .no-attach.view-head.panel-default.panel.contents > .bnt.bn
 
 ! 2020. 11. 3. 오후 4:48:53 https://m.naver.com/
 m.naver.com###nmap_news_channel_top_tgtLREC
