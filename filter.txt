@@ -68,3 +68,5 @@ m.naver.com###mflick > .eg-flick-container > .eg-flick-panel.flick-panel:nth-of-
 ! 네이버웹툰
 ||naverwebtoon-phinf.pstatic.net^
 ||cc.naver.com^$app=com.nhn.android.webtoon
+! 네이버카페
+||gfp.veta.naver.com^
